@@ -1,7 +1,7 @@
 # Cisco DHCP Snooping Automation
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Netmiko](https://img.shields.io/badge/netmiko-4.1.2-green)
+![Netmiko](https://img.shields.io/badge/netmiko-4.5-green)
 
 Скрипт для автоматической настройки DHCP Snooping на устройствах Cisco.
 
@@ -20,5 +20,5 @@
 ## 🚀 Установка
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/yourusername/cisco-dhcp-snooping.git
-cd cisco-dhcp-snooping
+git clone https://github.com/egorjke93/cisco-dhcp-snooping.git
+cd cisco-dhcp-snoopings

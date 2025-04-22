@@ -11,7 +11,7 @@ Dependencies:
 """
 
 from netmiko import ConnectHandler
-from list_cisco import *
+from list_cisco import *     # python list of cisco device for configuration
 
 # Global configuration commands for DHCP Snooping
 GLOBAL_CONFIG_COMMANDS = [
